@@ -1,0 +1,10 @@
+{
+  "name": "mp3Downloader",
+  "version": "1.0.0",
+  "description": "used to download all mp3 from a given webpage",
+  "main": "app.js",
+  "repository": "https://github.com/ekalavyaa/mp3Downloader.git",
+  "author": "<antonykfanciz@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
